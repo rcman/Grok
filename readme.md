@@ -1,1 +1,1 @@
-# Some previos Grok code, ideas and tests
+# Previos Grok, Gemini and ChatGPT code, ideas and tests
